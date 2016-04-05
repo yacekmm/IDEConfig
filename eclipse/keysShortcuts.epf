@@ -1,0 +1,5 @@
+#Thu Oct 18 15:34:25 CEST 2012
+file_export_version=3.0
+@org.eclipse.ui.workbench=3.103.0.v20120530-1824
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.ui.project.cleanAction" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+R"/>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.override.methods" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+U"/>\r\n</org.eclipse.ui.commands>
+\!/=
